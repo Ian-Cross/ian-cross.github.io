@@ -1,2 +1,3 @@
 # iancross.github.io
-This is the portfolio of professional experience.
+
+This is the portfolio of a professional experience.
