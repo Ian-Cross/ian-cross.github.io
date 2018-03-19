@@ -200,6 +200,7 @@ textarea {
 /*** Whitespace ***/
 .clear-space { clear: both; }
 .mg-tp-0 { margin-top: 0; }
+.mg-tp-50 { margin-top: 50px; }
 .mg-bt-0 { margin-bottom: 0; }
 .center { margin: 0 auto; }
 .text-center { text-align: center; }
