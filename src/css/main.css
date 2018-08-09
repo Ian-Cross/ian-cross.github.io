@@ -1,4 +1,4 @@
-html, body, * {
+html, body, div, * {
     font-family: 'Quicksand', sans-serif;
 }
 
@@ -52,20 +52,3 @@ html, body, * {
     background: #ffffff;
     color: #4c4d4e;
 }
-
-/* .one {
-    font-family: 'Quattrocento Sans';
-}
-.two {
-    font-family: 'Quattrocento Sans';
-    font-weight: bold;
-}
-.three {
-    font-family: 'Quattrocento Sans';
-    font-style: italic;
-}
-.four {
-    font-family: 'Quattrocento Sans';
-    font-weight: bold;
-    font-style: italic;
-} */
