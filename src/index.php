@@ -5,8 +5,9 @@
     <head>
         <meta charset="utf-8">
         <meta name="description" content="My name is Ian Cross, I am a young driven computer sciecne developer. Let me show you what I can do.">
-        <meta name="title" content="Home | Ian Cross">
+        <meta name="title" content="Ian Cross">
 
+        <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
         <link rel="stylesheet" href="/iancross.ca/src/css/main.css">
         <link rel="stylesheet" href="/iancross.ca/src/css/universal.css">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
