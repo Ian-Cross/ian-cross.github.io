@@ -5,7 +5,8 @@ const Piano = {
   url: process.env.REACT_APP_PROJECT_URL + "/playerPiano",
   description:
     "My grandparents were looking to sell their 100 year old player piano and chose a website as a good way to show off the instrument.",
-  image: PianoImage
+  image: PianoImage,
+  alt: "Player Piano Keys"
 };
 
 export default Piano;

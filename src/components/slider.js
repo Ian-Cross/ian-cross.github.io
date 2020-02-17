@@ -29,7 +29,7 @@ export class ProjectSlider extends React.Component {
                 </div>
               </div>
               <div class="project-column-right">
-                <img class="project-image" src={item.image} />
+                <img class="project-image" src={item.image} alt={item.alt} />
               </div>
             </a>
           );
