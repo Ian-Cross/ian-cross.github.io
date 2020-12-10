@@ -19,10 +19,11 @@ jobs:
         npm install
         npm run build
         
-    - name: Deploy to gh-pages
-      uses: JamesIves/github-pages-deploy-action@3.5.9
+    - name: Deploy
+      uses: JamesIves/github-pages-deploy-action@3.7.1
       with:
         GITHUB_TOKEN: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-        BASE_BRANCH: master
+        BASE_BRANCH: main
         BRANCH: prod-deploy
-        FOLDER: dist
+        FOLDER: build
+        CLEARN: true
