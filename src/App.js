@@ -10,7 +10,7 @@ import { Landing, Footer, ReliefWeb } from "components";
 function App() {
 	return (
 		<div className="App">
-			<Router>
+			<Router basename={process.env.PUBLIC_URL}>
 				<Switch>
 					<Route path="/relief-web-search">
 						<ReliefWeb />
