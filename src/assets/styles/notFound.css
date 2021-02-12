@@ -1,0 +1,13 @@
+.notfound-container {
+	margin-top: 10vh;
+}
+
+.notfound-title {
+	font-size: 3rem;
+	font-weight: 500;
+}
+
+.notfound-sub-title {
+	font-size: 1.5rem;
+	font-weight: 400;
+}
